@@ -1,0 +1,8 @@
+
+--------------------------------------------------- CAMBIOS REALIZADOS EN PASO 8 ------------------------------------------------------------
+
+ 	- Utilizacion de SynchronousQueue en Plataforma
+ 	- Utilizacion de CyclicBarrier en metodo "llegar" de la clase Gasolinera
+ 	- Utilizacion de Phaser para controlar las distintas fases del BarcoMercader (una fase sería entrar y otra sería repostar)
+ 	
+---------------------------------------------------------------------------------------------------------------------------------------------

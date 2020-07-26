@@ -1,0 +1,603 @@
+[Wed Mar 25 18:56:31 CET 2020] El barco 10 esta pidiendo permiso de entrada
+[Wed Mar 25 18:56:31 CET 2020] El barco 29 esta pidiendo permiso de salida
+[Wed Mar 25 18:56:31 CET 2020] El barco 28 esta pidiendo permiso de salida
+[Wed Mar 25 18:56:31 CET 2020] El barco 27 esta pidiendo permiso de salida
+[Wed Mar 25 18:56:31 CET 2020] El barco 26 esta pidiendo permiso de salida
+[Wed Mar 25 18:56:31 CET 2020] El barco 25 esta pidiendo permiso de salida
+[Wed Mar 25 18:56:31 CET 2020] El barco 24 esta pidiendo permiso de salida
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 23 esta pidiendo permiso de salida
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 22 esta pidiendo permiso de salida
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 21 esta pidiendo permiso de salida
+[Wed Mar 25 18:56:31 CET 2020] El barco 20 esta pidiendo permiso de salida
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 20 se le da permiso de salida
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 1 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 20 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] El barco 20 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] El barco 20 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] El barco 19 esta pidiendo permiso de entrada
+[Wed Mar 25 18:56:31 CET 2020] El barco 18 esta pidiendo permiso de entrada
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 17 esta pidiendo permiso de entrada
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 17 se le da permiso de entrada
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 1 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 16 esta pidiendo permiso de entrada
+[Wed Mar 25 18:56:31 CET 2020] El barco 15 esta pidiendo permiso de entrada
+[Wed Mar 25 18:56:31 CET 2020] El barco 14 esta pidiendo permiso de entrada
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 14 se le da permiso de entrada
+[Wed Mar 25 18:56:31 CET 2020] El barco 13 esta pidiendo permiso de entrada
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 13 se le da permiso de entrada
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 1 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 12 esta pidiendo permiso de entrada
+[Wed Mar 25 18:56:31 CET 2020] El barco 11 esta pidiendo permiso de entrada
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 12 se le da permiso de entrada
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 1 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 1 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 15 se le da permiso de entrada
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 1 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 16 se le da permiso de entrada
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 1 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 17 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] El barco 18 se le da permiso de entrada
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 1 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 19 se le da permiso de entrada
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 21 se le da permiso de salida
+[Wed Mar 25 18:56:31 CET 2020] El barco 22 se le da permiso de salida
+[Wed Mar 25 18:56:31 CET 2020] El barco 23 se le da permiso de salida
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 1 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 24 se le da permiso de salida
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 1 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 25 se le da permiso de salida
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 1 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 26 se le da permiso de salida
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 27 se le da permiso de salida
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 28 se le da permiso de salida
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 29 se le da permiso de salida
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 1 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 10 se le da permiso de entrada
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 1 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 1 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 1 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 1 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 1 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 1 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 17 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 17 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 1 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 11 se le da permiso de entrada
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 1 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 11 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] El barco 11 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] El barco 11 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] El barco 10 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] El barco 10 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] El barco 10 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] El barco 19 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] El barco 19 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] El barco 19 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] El barco 21 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] El barco 21 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] El barco 21 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] El barco 22 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] El barco 22 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] El barco 22 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] El barco 26 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] El barco 26 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] El barco 26 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] El barco 27 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] El barco 27 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] El barco 27 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] El barco 28 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] El barco 28 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] El barco 28 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] El barco 29 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] El barco 29 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] El barco 29 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] El barco 25 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] El barco 25 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] El barco 25 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] El barco 24 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] El barco 24 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] El barco 24 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] El barco 23 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] El barco 23 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] El barco 23 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] El barco 18 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] El barco 18 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] El barco 18 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] El barco 16 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] El barco 16 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] El barco 16 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] El barco 15 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] El barco 15 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] El barco 15 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] El barco 14 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] El barco 14 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] El barco 14 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] El barco 12 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] El barco 12 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] El barco 12 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] El barco 13 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] El barco 13 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] El barco 13 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] [1, 0, 2, 0, 1, 1, 2, 2, 1, 1, 0, 1, 2, 1, 2, 1, 1, 1, 1, 2, 1, 2, 2, 1, 1, 2, 1, 2, 2, 1, 1, 2, 0, 0, 1, 1, 1]
+[Wed Mar 25 18:56:31 CET 2020] El barco 100 esta pidiendo permiso de entrada
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 100 se le da permiso de entrada
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 1 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 100 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] El barco 100 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] El barco 100 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] Grua 0 pidiendo sacar harina
+[Wed Mar 25 18:56:31 CET 2020] Grua 1 pidiendo sacar sal
+[Wed Mar 25 18:56:31 CET 2020] Grua 2 pidiendo sacar azucar
+[Wed Mar 25 18:56:31 CET 2020] Sacando de la plataforma: Sal
+[Wed Mar 25 18:56:31 CET 2020] Poniendo en plataforma: Sal
+[Wed Mar 25 18:56:31 CET 2020] Grua 1 ya a sacado sal
+[Wed Mar 25 18:56:31 CET 2020] Grua 1 pidiendo sacar sal
+[Wed Mar 25 18:56:31 CET 2020] [0, 2, 0, 1, 1, 2, 2, 1, 1, 0, 1, 2, 1, 2, 1, 1, 1, 1, 2, 1, 2, 2, 1, 1, 2, 1, 2, 2, 1, 1, 2, 0, 0, 1, 1, 1]
+[Wed Mar 25 18:56:31 CET 2020] Poniendo en plataforma: Harina
+[Wed Mar 25 18:56:31 CET 2020] [2, 0, 1, 1, 2, 2, 1, 1, 0, 1, 2, 1, 2, 1, 1, 1, 1, 2, 1, 2, 2, 1, 1, 2, 1, 2, 2, 1, 1, 2, 0, 0, 1, 1, 1]
+[Wed Mar 25 18:56:31 CET 2020] Poniendo en plataforma: Azucar
+[Wed Mar 25 18:56:31 CET 2020] Sacando de la plataforma: Azucar
+[Wed Mar 25 18:56:31 CET 2020] Grua 2 ya a sacado azucar
+[Wed Mar 25 18:56:31 CET 2020] [0, 1, 1, 2, 2, 1, 1, 0, 1, 2, 1, 2, 1, 1, 1, 1, 2, 1, 2, 2, 1, 1, 2, 1, 2, 2, 1, 1, 2, 0, 0, 1, 1, 1]
+[Wed Mar 25 18:56:31 CET 2020] Grua 2 pidiendo sacar azucar
+[Wed Mar 25 18:56:31 CET 2020] Sacando de la plataforma: Harina
+[Wed Mar 25 18:56:31 CET 2020] Grua 0 ya a sacado harina
+[Wed Mar 25 18:56:31 CET 2020] Grua 0 pidiendo sacar harina
+[Wed Mar 25 18:56:31 CET 2020] Sacando de la plataforma: Harina
+[Wed Mar 25 18:56:31 CET 2020] Poniendo en plataforma: Harina
+[Wed Mar 25 18:56:31 CET 2020] Grua 0 ya a sacado harina
+[Wed Mar 25 18:56:31 CET 2020] Grua 0 pidiendo sacar harina
+[Wed Mar 25 18:56:31 CET 2020] [1, 1, 2, 2, 1, 1, 0, 1, 2, 1, 2, 1, 1, 1, 1, 2, 1, 2, 2, 1, 1, 2, 1, 2, 2, 1, 1, 2, 0, 0, 1, 1, 1]
+[Wed Mar 25 18:56:31 CET 2020] Poniendo en plataforma: Sal
+[Wed Mar 25 18:56:31 CET 2020] Sacando de la plataforma: Sal
+[Wed Mar 25 18:56:31 CET 2020] [1, 2, 2, 1, 1, 0, 1, 2, 1, 2, 1, 1, 1, 1, 2, 1, 2, 2, 1, 1, 2, 1, 2, 2, 1, 1, 2, 0, 0, 1, 1, 1]
+[Wed Mar 25 18:56:31 CET 2020] Grua 1 ya a sacado sal
+[Wed Mar 25 18:56:31 CET 2020] Grua 1 pidiendo sacar sal
+[Wed Mar 25 18:56:31 CET 2020] Sacando de la plataforma: Sal
+[Wed Mar 25 18:56:31 CET 2020] Poniendo en plataforma: Sal
+[Wed Mar 25 18:56:31 CET 2020] Grua 1 ya a sacado sal
+[Wed Mar 25 18:56:31 CET 2020] Grua 1 pidiendo sacar sal
+[Wed Mar 25 18:56:31 CET 2020] [2, 2, 1, 1, 0, 1, 2, 1, 2, 1, 1, 1, 1, 2, 1, 2, 2, 1, 1, 2, 1, 2, 2, 1, 1, 2, 0, 0, 1, 1, 1]
+[Wed Mar 25 18:56:31 CET 2020] Poniendo en plataforma: Azucar
+[Wed Mar 25 18:56:31 CET 2020] Sacando de la plataforma: Azucar
+[Wed Mar 25 18:56:31 CET 2020] [2, 1, 1, 0, 1, 2, 1, 2, 1, 1, 1, 1, 2, 1, 2, 2, 1, 1, 2, 1, 2, 2, 1, 1, 2, 0, 0, 1, 1, 1]
+[Wed Mar 25 18:56:31 CET 2020] Grua 2 ya a sacado azucar
+[Wed Mar 25 18:56:31 CET 2020] Grua 2 pidiendo sacar azucar
+[Wed Mar 25 18:56:31 CET 2020] Sacando de la plataforma: Azucar
+[Wed Mar 25 18:56:31 CET 2020] Poniendo en plataforma: Azucar
+[Wed Mar 25 18:56:31 CET 2020] Grua 2 ya a sacado azucar
+[Wed Mar 25 18:56:31 CET 2020] Grua 2 pidiendo sacar azucar
+[Wed Mar 25 18:56:31 CET 2020] [1, 1, 0, 1, 2, 1, 2, 1, 1, 1, 1, 2, 1, 2, 2, 1, 1, 2, 1, 2, 2, 1, 1, 2, 0, 0, 1, 1, 1]
+[Wed Mar 25 18:56:31 CET 2020] Poniendo en plataforma: Sal
+[Wed Mar 25 18:56:31 CET 2020] Sacando de la plataforma: Sal
+[Wed Mar 25 18:56:31 CET 2020] [1, 0, 1, 2, 1, 2, 1, 1, 1, 1, 2, 1, 2, 2, 1, 1, 2, 1, 2, 2, 1, 1, 2, 0, 0, 1, 1, 1]
+[Wed Mar 25 18:56:31 CET 2020] Grua 1 ya a sacado sal
+[Wed Mar 25 18:56:31 CET 2020] Grua 1 pidiendo sacar sal
+[Wed Mar 25 18:56:31 CET 2020] Sacando de la plataforma: Sal
+[Wed Mar 25 18:56:31 CET 2020] Poniendo en plataforma: Sal
+[Wed Mar 25 18:56:31 CET 2020] Grua 1 ya a sacado sal
+[Wed Mar 25 18:56:31 CET 2020] Grua 1 pidiendo sacar sal
+[Wed Mar 25 18:56:31 CET 2020] [0, 1, 2, 1, 2, 1, 1, 1, 1, 2, 1, 2, 2, 1, 1, 2, 1, 2, 2, 1, 1, 2, 0, 0, 1, 1, 1]
+[Wed Mar 25 18:56:31 CET 2020] Poniendo en plataforma: Harina
+[Wed Mar 25 18:56:31 CET 2020] Sacando de la plataforma: Harina
+[Wed Mar 25 18:56:31 CET 2020] Grua 0 ya a sacado harina
+[Wed Mar 25 18:56:31 CET 2020] [1, 2, 1, 2, 1, 1, 1, 1, 2, 1, 2, 2, 1, 1, 2, 1, 2, 2, 1, 1, 2, 0, 0, 1, 1, 1]
+[Wed Mar 25 18:56:31 CET 2020] Grua 0 pidiendo sacar harina
+[Wed Mar 25 18:56:31 CET 2020] Poniendo en plataforma: Sal
+[Wed Mar 25 18:56:31 CET 2020] Sacando de la plataforma: Sal
+[Wed Mar 25 18:56:31 CET 2020] Grua 1 ya a sacado sal
+[Wed Mar 25 18:56:31 CET 2020] [2, 1, 2, 1, 1, 1, 1, 2, 1, 2, 2, 1, 1, 2, 1, 2, 2, 1, 1, 2, 0, 0, 1, 1, 1]
+[Wed Mar 25 18:56:31 CET 2020] Grua 1 pidiendo sacar sal
+[Wed Mar 25 18:56:31 CET 2020] Poniendo en plataforma: Azucar
+[Wed Mar 25 18:56:31 CET 2020] Sacando de la plataforma: Azucar
+[Wed Mar 25 18:56:31 CET 2020] Grua 2 ya a sacado azucar
+[Wed Mar 25 18:56:31 CET 2020] Grua 2 pidiendo sacar azucar
+[Wed Mar 25 18:56:31 CET 2020] El barco 200 esta pidiendo permiso de entrada
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 200 se le da permiso de entrada
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 1 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 200 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] El barco 200 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] El barco 200 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] Barco con id 200 ha entrado en la gasolinera
+[Wed Mar 25 18:56:31 CET 2020] N�mero de barcos esperando a repostar: 1
+[Wed Mar 25 18:56:31 CET 2020] [1, 2, 1, 1, 1, 1, 2, 1, 2, 2, 1, 1, 2, 1, 2, 2, 1, 1, 2, 0, 0, 1, 1, 1]
+[Wed Mar 25 18:56:31 CET 2020] Poniendo en plataforma: Sal
+[Wed Mar 25 18:56:31 CET 2020] Sacando de la plataforma: Sal
+[Wed Mar 25 18:56:31 CET 2020] [2, 1, 1, 1, 1, 2, 1, 2, 2, 1, 1, 2, 1, 2, 2, 1, 1, 2, 0, 0, 1, 1, 1]
+[Wed Mar 25 18:56:31 CET 2020] Grua 1 ya a sacado sal
+[Wed Mar 25 18:56:31 CET 2020] Poniendo en plataforma: Azucar
+[Wed Mar 25 18:56:31 CET 2020] Grua 1 pidiendo sacar sal
+[Wed Mar 25 18:56:31 CET 2020] [1, 1, 1, 1, 2, 1, 2, 2, 1, 1, 2, 1, 2, 2, 1, 1, 2, 0, 0, 1, 1, 1]
+[Wed Mar 25 18:56:31 CET 2020] Poniendo en plataforma: Sal
+[Wed Mar 25 18:56:31 CET 2020] Sacando de la plataforma: Sal
+[Wed Mar 25 18:56:31 CET 2020] [1, 1, 1, 2, 1, 2, 2, 1, 1, 2, 1, 2, 2, 1, 1, 2, 0, 0, 1, 1, 1]
+[Wed Mar 25 18:56:31 CET 2020] Grua 1 ya a sacado sal
+[Wed Mar 25 18:56:31 CET 2020] Grua 1 pidiendo sacar sal
+[Wed Mar 25 18:56:31 CET 2020] Sacando de la plataforma: Sal
+[Wed Mar 25 18:56:31 CET 2020] Poniendo en plataforma: Sal
+[Wed Mar 25 18:56:31 CET 2020] Sacando de la plataforma: Azucar
+[Wed Mar 25 18:56:31 CET 2020] Grua 2 ya a sacado azucar
+[Wed Mar 25 18:56:31 CET 2020] [1, 1, 2, 1, 2, 2, 1, 1, 2, 1, 2, 2, 1, 1, 2, 0, 0, 1, 1, 1]
+[Wed Mar 25 18:56:31 CET 2020] Grua 1 ya a sacado sal
+[Wed Mar 25 18:56:31 CET 2020] Grua 2 pidiendo sacar azucar
+[Wed Mar 25 18:56:31 CET 2020] El barco 201 esta pidiendo permiso de entrada
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 201 se le da permiso de entrada
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 1 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 201 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] El barco 201 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] El barco 201 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] Grua 1 pidiendo sacar sal
+[Wed Mar 25 18:56:31 CET 2020] Barco con id 201 ha entrado en la gasolinera
+[Wed Mar 25 18:56:31 CET 2020] Poniendo en plataforma: Sal
+[Wed Mar 25 18:56:31 CET 2020] Sacando de la plataforma: Sal
+[Wed Mar 25 18:56:31 CET 2020] N�mero de barcos esperando a repostar: 2
+[Wed Mar 25 18:56:31 CET 2020] [1, 2, 1, 2, 2, 1, 1, 2, 1, 2, 2, 1, 1, 2, 0, 0, 1, 1, 1]
+[Wed Mar 25 18:56:31 CET 2020] Grua 1 ya a sacado sal
+[Wed Mar 25 18:56:31 CET 2020] Grua 1 pidiendo sacar sal
+[Wed Mar 25 18:56:31 CET 2020] Sacando de la plataforma: Sal
+[Wed Mar 25 18:56:31 CET 2020] Poniendo en plataforma: Sal
+[Wed Mar 25 18:56:31 CET 2020] Grua 1 ya a sacado sal
+[Wed Mar 25 18:56:31 CET 2020] Grua 1 pidiendo sacar sal
+[Wed Mar 25 18:56:31 CET 2020] [2, 1, 2, 2, 1, 1, 2, 1, 2, 2, 1, 1, 2, 0, 0, 1, 1, 1]
+[Wed Mar 25 18:56:31 CET 2020] Sacando de la plataforma: Azucar
+[Wed Mar 25 18:56:31 CET 2020] El barco 202 esta pidiendo permiso de entrada
+[Wed Mar 25 18:56:31 CET 2020] Grua 2 ya a sacado azucar
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] Grua 2 pidiendo sacar azucar
+[Wed Mar 25 18:56:31 CET 2020] El barco 202 se le da permiso de entrada
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 1 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 202 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] El barco 202 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] Poniendo en plataforma: Azucar
+[Wed Mar 25 18:56:31 CET 2020] El barco 202 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] Barco con id 202 ha entrado en la gasolinera
+[Wed Mar 25 18:56:31 CET 2020] [1, 2, 2, 1, 1, 2, 1, 2, 2, 1, 1, 2, 0, 0, 1, 1, 1]
+[Wed Mar 25 18:56:31 CET 2020] N�mero de barcos esperando a repostar: 3
+[Wed Mar 25 18:56:31 CET 2020] Poniendo en plataforma: Sal
+[Wed Mar 25 18:56:31 CET 2020] [2, 2, 1, 1, 2, 1, 2, 2, 1, 1, 2, 0, 0, 1, 1, 1]
+[Wed Mar 25 18:56:31 CET 2020] Sacando de la plataforma: Azucar
+[Wed Mar 25 18:56:31 CET 2020] Grua 2 ya a sacado azucar
+[Wed Mar 25 18:56:31 CET 2020] Grua 2 pidiendo sacar azucar
+[Wed Mar 25 18:56:31 CET 2020] Sacando de la plataforma: Sal
+[Wed Mar 25 18:56:31 CET 2020] Poniendo en plataforma: Azucar
+[Wed Mar 25 18:56:31 CET 2020] Grua 1 ya a sacado sal
+[Wed Mar 25 18:56:31 CET 2020] Grua 1 pidiendo sacar sal
+[Wed Mar 25 18:56:31 CET 2020] [2, 1, 1, 2, 1, 2, 2, 1, 1, 2, 0, 0, 1, 1, 1]
+[Wed Mar 25 18:56:31 CET 2020] Sacando de la plataforma: Azucar
+[Wed Mar 25 18:56:31 CET 2020] Grua 2 ya a sacado azucar
+[Wed Mar 25 18:56:31 CET 2020] Grua 2 pidiendo sacar azucar
+[Wed Mar 25 18:56:31 CET 2020] Poniendo en plataforma: Azucar
+[Wed Mar 25 18:56:31 CET 2020] [1, 1, 2, 1, 2, 2, 1, 1, 2, 0, 0, 1, 1, 1]
+[Wed Mar 25 18:56:31 CET 2020] Poniendo en plataforma: Sal
+[Wed Mar 25 18:56:31 CET 2020] Sacando de la plataforma: Sal
+[Wed Mar 25 18:56:31 CET 2020] [1, 2, 1, 2, 2, 1, 1, 2, 0, 0, 1, 1, 1]
+[Wed Mar 25 18:56:31 CET 2020] Grua 1 ya a sacado sal
+[Wed Mar 25 18:56:31 CET 2020] Grua 1 pidiendo sacar sal
+[Wed Mar 25 18:56:31 CET 2020] Sacando de la plataforma: Sal
+[Wed Mar 25 18:56:31 CET 2020] Poniendo en plataforma: Sal
+[Wed Mar 25 18:56:31 CET 2020] Grua 1 ya a sacado sal
+[Wed Mar 25 18:56:31 CET 2020] [2, 1, 2, 2, 1, 1, 2, 0, 0, 1, 1, 1]
+[Wed Mar 25 18:56:31 CET 2020] Grua 1 pidiendo sacar sal
+[Wed Mar 25 18:56:31 CET 2020] Sacando de la plataforma: Azucar
+[Wed Mar 25 18:56:31 CET 2020] Grua 2 ya a sacado azucar
+[Wed Mar 25 18:56:31 CET 2020] Grua 2 pidiendo sacar azucar
+[Wed Mar 25 18:56:31 CET 2020] Poniendo en plataforma: Azucar
+[Wed Mar 25 18:56:31 CET 2020] [1, 2, 2, 1, 1, 2, 0, 0, 1, 1, 1]
+[Wed Mar 25 18:56:31 CET 2020] Poniendo en plataforma: Sal
+[Wed Mar 25 18:56:31 CET 2020] Sacando de la plataforma: Sal
+[Wed Mar 25 18:56:31 CET 2020] [2, 2, 1, 1, 2, 0, 0, 1, 1, 1]
+[Wed Mar 25 18:56:31 CET 2020] Grua 1 ya a sacado sal
+[Wed Mar 25 18:56:31 CET 2020] Sacando de la plataforma: Azucar
+[Wed Mar 25 18:56:31 CET 2020] Grua 1 pidiendo sacar sal
+[Wed Mar 25 18:56:31 CET 2020] Grua 2 ya a sacado azucar
+[Wed Mar 25 18:56:31 CET 2020] Grua 2 pidiendo sacar azucar
+[Wed Mar 25 18:56:31 CET 2020] Poniendo en plataforma: Azucar
+[Wed Mar 25 18:56:31 CET 2020] [2, 1, 1, 2, 0, 0, 1, 1, 1]
+[Wed Mar 25 18:56:31 CET 2020] Poniendo en plataforma: Azucar
+[Wed Mar 25 18:56:31 CET 2020] Sacando de la plataforma: Azucar
+[Wed Mar 25 18:56:31 CET 2020] [1, 1, 2, 0, 0, 1, 1, 1]
+[Wed Mar 25 18:56:31 CET 2020] Grua 2 ya a sacado azucar
+[Wed Mar 25 18:56:31 CET 2020] Poniendo en plataforma: Sal
+[Wed Mar 25 18:56:31 CET 2020] Grua 2 pidiendo sacar azucar
+[Wed Mar 25 18:56:31 CET 2020] [1, 2, 0, 0, 1, 1, 1]
+[Wed Mar 25 18:56:31 CET 2020] Sacando de la plataforma: Sal
+[Wed Mar 25 18:56:31 CET 2020] Grua 1 ya a sacado sal
+[Wed Mar 25 18:56:31 CET 2020] Grua 1 pidiendo sacar sal
+[Wed Mar 25 18:56:31 CET 2020] Sacando de la plataforma: Sal
+[Wed Mar 25 18:56:31 CET 2020] Poniendo en plataforma: Sal
+[Wed Mar 25 18:56:31 CET 2020] Grua 1 ya a sacado sal
+[Wed Mar 25 18:56:31 CET 2020] [2, 0, 0, 1, 1, 1]
+[Wed Mar 25 18:56:31 CET 2020] Grua 1 pidiendo sacar sal
+[Wed Mar 25 18:56:31 CET 2020] Poniendo en plataforma: Azucar
+[Wed Mar 25 18:56:31 CET 2020] [0, 0, 1, 1, 1]
+[Wed Mar 25 18:56:31 CET 2020] Poniendo en plataforma: Harina
+[Wed Mar 25 18:56:31 CET 2020] Sacando de la plataforma: Harina
+[Wed Mar 25 18:56:31 CET 2020] Sacando de la plataforma: Azucar
+[Wed Mar 25 18:56:31 CET 2020] Grua 0 ya a sacado harina
+[Wed Mar 25 18:56:31 CET 2020] Grua 2 ya a sacado azucar
+[Wed Mar 25 18:56:31 CET 2020] Grua 0 pidiendo sacar harina
+[Wed Mar 25 18:56:31 CET 2020] La grua 2 a terminado su jornada
+[Wed Mar 25 18:56:31 CET 2020] [0, 1, 1, 1]
+[Wed Mar 25 18:56:31 CET 2020] Poniendo en plataforma: Harina
+[Wed Mar 25 18:56:31 CET 2020] Sacando de la plataforma: Harina
+[Wed Mar 25 18:56:31 CET 2020] [1, 1, 1]
+[Wed Mar 25 18:56:31 CET 2020] Grua 0 ya a sacado harina
+[Wed Mar 25 18:56:31 CET 2020] La grua 0 a terminado su jornada
+[Wed Mar 25 18:56:31 CET 2020] Sacando de la plataforma: Sal
+[Wed Mar 25 18:56:31 CET 2020] Grua 1 ya a sacado sal
+[Wed Mar 25 18:56:31 CET 2020] Grua 1 pidiendo sacar sal
+[Wed Mar 25 18:56:31 CET 2020] Poniendo en plataforma: Sal
+[Wed Mar 25 18:56:31 CET 2020] [1, 1]
+[Wed Mar 25 18:56:31 CET 2020] Sacando de la plataforma: Sal
+[Wed Mar 25 18:56:31 CET 2020] Grua 1 ya a sacado sal
+[Wed Mar 25 18:56:31 CET 2020] Grua 1 pidiendo sacar sal
+[Wed Mar 25 18:56:31 CET 2020] Poniendo en plataforma: Sal
+[Wed Mar 25 18:56:31 CET 2020] [1]
+[Wed Mar 25 18:56:31 CET 2020] Sacando de la plataforma: Sal
+[Wed Mar 25 18:56:31 CET 2020] Grua 1 ya a sacado sal
+[Wed Mar 25 18:56:31 CET 2020] La grua 1 a terminado su jornada
+[Wed Mar 25 18:56:31 CET 2020] Poniendo en plataforma: Sal
+[Wed Mar 25 18:56:31 CET 2020] []
+[Wed Mar 25 18:56:31 CET 2020] El barco 100 esta pidiendo permiso de salida
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 100 se le da permiso de salida
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 1 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 100 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] El barco 100 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] El barco 100 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] El barco 203 esta pidiendo permiso de entrada
+[Wed Mar 25 18:56:31 CET 2020] El barco 204 esta pidiendo permiso de entrada
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 204 se le da permiso de entrada
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 1 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 203 se le da permiso de entrada
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 1 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 204 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] El barco 204 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] El barco 204 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] Barco con id 204 ha entrado en la gasolinera
+[Wed Mar 25 18:56:31 CET 2020] N�mero de barcos esperando a repostar: 4
+[Wed Mar 25 18:56:31 CET 2020] El barco 203 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] El barco 203 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] El barco 203 esta entrando
+[Wed Mar 25 18:56:31 CET 2020] Barco con id 203 ha entrado en la gasolinera
+[Wed Mar 25 18:56:31 CET 2020] N�mero de barcos esperando a repostar: 5
+[Wed Mar 25 18:56:31 CET 2020] El barco 201 esta reponiendo agua...
+[Wed Mar 25 18:56:31 CET 2020] Le faltan por repostar 2000 litros de agua
+[Wed Mar 25 18:56:31 CET 2020] El barco 201 esta reponiendo agua...
+[Wed Mar 25 18:56:31 CET 2020] Le faltan por repostar 1000 litros de agua
+[Wed Mar 25 18:56:31 CET 2020] El barco 201 esta reponiendo agua...
+[Wed Mar 25 18:56:31 CET 2020] Agua a tope en el barco 201
+[Wed Mar 25 18:56:31 CET 2020] El barco 201 esta esperando a reponer gasoil...
+[Wed Mar 25 18:56:31 CET 2020] El barco petrolero 201 ha terminado de repostar agua
+[Wed Mar 25 18:56:31 CET 2020] El barco 204 esta esperando a reponer gasoil...
+[Wed Mar 25 18:56:31 CET 2020] El barco 202 esta esperando a reponer gasoil...
+[Wed Mar 25 18:56:31 CET 2020] El barco 200 esta esperando a reponer gasoil...
+[Wed Mar 25 18:56:31 CET 2020] El barco 203 esta esperando a reponer gasoil...
+[Wed Mar 25 18:56:31 CET 2020] Reponedor haciendo su trabajo...
+[Wed Mar 25 18:56:31 CET 2020] Reponiendo el repostaje 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 204 esta reponiendo agua...
+[Wed Mar 25 18:56:31 CET 2020] Le faltan por repostar 2000 litros de agua
+[Wed Mar 25 18:56:31 CET 2020] El barco 204 esta reponiendo agua...
+[Wed Mar 25 18:56:31 CET 2020] Le faltan por repostar 1000 litros de agua
+[Wed Mar 25 18:56:31 CET 2020] El barco 204 esta reponiendo agua...
+[Wed Mar 25 18:56:31 CET 2020] Agua a tope en el barco 204
+[Wed Mar 25 18:56:31 CET 2020] El barco petrolero 204 ha terminado de repostar agua
+[Wed Mar 25 18:56:31 CET 2020] El barco 203 esta reponiendo agua...
+[Wed Mar 25 18:56:31 CET 2020] Le faltan por repostar 2000 litros de agua
+[Wed Mar 25 18:56:31 CET 2020] El barco 203 esta reponiendo agua...
+[Wed Mar 25 18:56:31 CET 2020] Le faltan por repostar 1000 litros de agua
+[Wed Mar 25 18:56:31 CET 2020] El barco 203 esta reponiendo agua...
+[Wed Mar 25 18:56:31 CET 2020] Agua a tope en el barco 203
+[Wed Mar 25 18:56:31 CET 2020] El barco petrolero 203 ha terminado de repostar agua
+[Wed Mar 25 18:56:31 CET 2020] El barco 202 esta reponiendo agua...
+[Wed Mar 25 18:56:31 CET 2020] Le faltan por repostar 2000 litros de agua
+[Wed Mar 25 18:56:31 CET 2020] El barco 202 esta reponiendo agua...
+[Wed Mar 25 18:56:31 CET 2020] Le faltan por repostar 1000 litros de agua
+[Wed Mar 25 18:56:31 CET 2020] El barco 202 esta reponiendo agua...
+[Wed Mar 25 18:56:31 CET 2020] Agua a tope en el barco 202
+[Wed Mar 25 18:56:31 CET 2020] El barco petrolero 202 ha terminado de repostar agua
+[Wed Mar 25 18:56:31 CET 2020] Ya puede repostar el barco 0
+[Wed Mar 25 18:56:31 CET 2020] barcosGasolinera repostando gasoil:  5
+[Wed Mar 25 18:56:31 CET 2020] El barco 200 ha dejado de esperar para reponer gasoil...
+[Wed Mar 25 18:56:31 CET 2020] Reponiendo el repostaje 1
+[Wed Mar 25 18:56:31 CET 2020] El barco 200 esta reponiendo gasoil...
+[Wed Mar 25 18:56:31 CET 2020] Ya puede repostar el barco 1
+[Wed Mar 25 18:56:31 CET 2020] barcosGasolinera repostando gasoil:  5
+[Wed Mar 25 18:56:31 CET 2020] A el barco 200 le faltan por repostar 2000 litros de gasoil
+[Wed Mar 25 18:56:31 CET 2020] Reponiendo el repostaje 2
+[Wed Mar 25 18:56:31 CET 2020] El barco 200 esta esperando a reponer gasoil...
+[Wed Mar 25 18:56:31 CET 2020] Ya puede repostar el barco 2
+[Wed Mar 25 18:56:31 CET 2020] barcosGasolinera repostando gasoil:  5
+[Wed Mar 25 18:56:31 CET 2020] Reponiendo el repostaje 3
+[Wed Mar 25 18:56:31 CET 2020] El barco 200 esta reponiendo agua...
+[Wed Mar 25 18:56:31 CET 2020] Ya puede repostar el barco 3
+[Wed Mar 25 18:56:31 CET 2020] Le faltan por repostar 2000 litros de agua
+[Wed Mar 25 18:56:31 CET 2020] barcosGasolinera repostando gasoil:  5
+[Wed Mar 25 18:56:31 CET 2020] El barco 200 esta reponiendo agua...
+[Wed Mar 25 18:56:31 CET 2020] Reponiendo el repostaje 4
+[Wed Mar 25 18:56:31 CET 2020] Le faltan por repostar 1000 litros de agua
+[Wed Mar 25 18:56:31 CET 2020] Ya puede repostar el barco 4
+[Wed Mar 25 18:56:31 CET 2020] El barco 200 esta reponiendo agua...
+[Wed Mar 25 18:56:31 CET 2020] barcosGasolinera repostando gasoil:  5
+[Wed Mar 25 18:56:31 CET 2020] Agua a tope en el barco 200
+[Wed Mar 25 18:56:31 CET 2020] El barco 203 ha dejado de esperar para reponer gasoil...
+[Wed Mar 25 18:56:31 CET 2020] El barco petrolero 200 ha terminado de repostar agua
+[Wed Mar 25 18:56:31 CET 2020] El barco 203 esta reponiendo gasoil...
+[Wed Mar 25 18:56:31 CET 2020] A el barco 203 le faltan por repostar 2000 litros de gasoil
+[Wed Mar 25 18:56:31 CET 2020] El barco 203 esta esperando a reponer gasoil...
+[Wed Mar 25 18:56:31 CET 2020] El barco 201 ha dejado de esperar para reponer gasoil...
+[Wed Mar 25 18:56:31 CET 2020] El barco 201 esta reponiendo gasoil...
+[Wed Mar 25 18:56:31 CET 2020] A el barco 201 le faltan por repostar 2000 litros de gasoil
+[Wed Mar 25 18:56:31 CET 2020] El barco 201 esta esperando a reponer gasoil...
+[Wed Mar 25 18:56:31 CET 2020] El barco 204 ha dejado de esperar para reponer gasoil...
+[Wed Mar 25 18:56:31 CET 2020] El barco 204 esta reponiendo gasoil...
+[Wed Mar 25 18:56:31 CET 2020] El barco 202 ha dejado de esperar para reponer gasoil...
+[Wed Mar 25 18:56:31 CET 2020] A el barco 204 le faltan por repostar 2000 litros de gasoil
+[Wed Mar 25 18:56:31 CET 2020] El barco 202 esta reponiendo gasoil...
+[Wed Mar 25 18:56:31 CET 2020] El barco 204 esta esperando a reponer gasoil...
+[Wed Mar 25 18:56:31 CET 2020] A el barco 202 le faltan por repostar 2000 litros de gasoil
+[Wed Mar 25 18:56:31 CET 2020] El barco 202 esta esperando a reponer gasoil...
+[Wed Mar 25 18:56:31 CET 2020] Reponedor haciendo su trabajo...
+[Wed Mar 25 18:56:31 CET 2020] Reponiendo el repostaje 0
+[Wed Mar 25 18:56:31 CET 2020] Ya puede repostar el barco 0
+[Wed Mar 25 18:56:31 CET 2020] barcosGasolinera repostando gasoil:  5
+[Wed Mar 25 18:56:31 CET 2020] El barco 200 ha dejado de esperar para reponer gasoil...
+[Wed Mar 25 18:56:31 CET 2020] Reponiendo el repostaje 1
+[Wed Mar 25 18:56:31 CET 2020] El barco 200 esta reponiendo gasoil...
+[Wed Mar 25 18:56:31 CET 2020] Ya puede repostar el barco 1
+[Wed Mar 25 18:56:31 CET 2020] A el barco 200 le faltan por repostar 1000 litros de gasoil
+[Wed Mar 25 18:56:31 CET 2020] barcosGasolinera repostando gasoil:  5
+[Wed Mar 25 18:56:31 CET 2020] El barco 200 esta esperando a reponer gasoil...
+[Wed Mar 25 18:56:31 CET 2020] Reponiendo el repostaje 2
+[Wed Mar 25 18:56:31 CET 2020] El barco 201 ha dejado de esperar para reponer gasoil...
+[Wed Mar 25 18:56:31 CET 2020] El barco 202 ha dejado de esperar para reponer gasoil...
+[Wed Mar 25 18:56:31 CET 2020] El barco 201 esta reponiendo gasoil...
+[Wed Mar 25 18:56:31 CET 2020] El barco 202 esta reponiendo gasoil...
+[Wed Mar 25 18:56:31 CET 2020] A el barco 201 le faltan por repostar 1000 litros de gasoil
+[Wed Mar 25 18:56:31 CET 2020] A el barco 202 le faltan por repostar 1000 litros de gasoil
+[Wed Mar 25 18:56:31 CET 2020] El barco 201 esta esperando a reponer gasoil...
+[Wed Mar 25 18:56:31 CET 2020] El barco 202 esta esperando a reponer gasoil...
+[Wed Mar 25 18:56:31 CET 2020] Ya puede repostar el barco 2
+[Wed Mar 25 18:56:31 CET 2020] barcosGasolinera repostando gasoil:  5
+[Wed Mar 25 18:56:31 CET 2020] Reponiendo el repostaje 3
+[Wed Mar 25 18:56:31 CET 2020] Ya puede repostar el barco 3
+[Wed Mar 25 18:56:31 CET 2020] barcosGasolinera repostando gasoil:  5
+[Wed Mar 25 18:56:31 CET 2020] Reponiendo el repostaje 4
+[Wed Mar 25 18:56:31 CET 2020] El barco 203 ha dejado de esperar para reponer gasoil...
+[Wed Mar 25 18:56:31 CET 2020] El barco 203 esta reponiendo gasoil...
+[Wed Mar 25 18:56:31 CET 2020] El barco 204 ha dejado de esperar para reponer gasoil...
+[Wed Mar 25 18:56:31 CET 2020] A el barco 203 le faltan por repostar 1000 litros de gasoil
+[Wed Mar 25 18:56:31 CET 2020] El barco 204 esta reponiendo gasoil...
+[Wed Mar 25 18:56:31 CET 2020] A el barco 204 le faltan por repostar 1000 litros de gasoil
+[Wed Mar 25 18:56:31 CET 2020] Ya puede repostar el barco 4
+[Wed Mar 25 18:56:31 CET 2020] El barco 204 esta esperando a reponer gasoil...
+[Wed Mar 25 18:56:31 CET 2020] barcosGasolinera repostando gasoil:  5
+[Wed Mar 25 18:56:31 CET 2020] El barco 203 esta esperando a reponer gasoil...
+[Wed Mar 25 18:56:31 CET 2020] Reponedor haciendo su trabajo...
+[Wed Mar 25 18:56:31 CET 2020] Reponiendo el repostaje 0
+[Wed Mar 25 18:56:31 CET 2020] Ya puede repostar el barco 0
+[Wed Mar 25 18:56:31 CET 2020] barcosGasolinera repostando gasoil:  5
+[Wed Mar 25 18:56:31 CET 2020] El barco 200 ha dejado de esperar para reponer gasoil...
+[Wed Mar 25 18:56:31 CET 2020] Reponiendo el repostaje 1
+[Wed Mar 25 18:56:31 CET 2020] El barco 200 esta reponiendo gasoil...
+[Wed Mar 25 18:56:31 CET 2020] Ya puede repostar el barco 1
+[Wed Mar 25 18:56:31 CET 2020] Gasoil a tope en el barco 200
+[Wed Mar 25 18:56:31 CET 2020] barcosGasolinera repostando gasoil:  5
+[Wed Mar 25 18:56:31 CET 2020] Reponiendo el repostaje 2
+[Wed Mar 25 18:56:31 CET 2020] Ya puede repostar el barco 2
+[Wed Mar 25 18:56:31 CET 2020] El barco petrolero 200 ha terminado de repostar gasoil
+[Wed Mar 25 18:56:31 CET 2020] barcosGasolinera repostando gasoil:  5
+[Wed Mar 25 18:56:31 CET 2020] Reponiendo el repostaje 3
+[Wed Mar 25 18:56:31 CET 2020] El barco petrolero 200 ha terminado de repostar
+[Wed Mar 25 18:56:31 CET 2020] Ya puede repostar el barco 3
+[Wed Mar 25 18:56:31 CET 2020] barcosGasolinera repostando gasoil:  5
+[Wed Mar 25 18:56:31 CET 2020] Reponiendo el repostaje 4
+[Wed Mar 25 18:56:31 CET 2020] Ya puede repostar el barco 4
+[Wed Mar 25 18:56:31 CET 2020] barcosGasolinera repostando gasoil:  5
+[Wed Mar 25 18:56:31 CET 2020] Barco con id 200 ha salido de la gasolinera
+[Wed Mar 25 18:56:31 CET 2020] Barcos que todavian quedan en la gasolinera 4
+[Wed Mar 25 18:56:31 CET 2020] El barco 200 esta pidiendo permiso de salida
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 200 se le da permiso de salida
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 1 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 200 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] El barco 200 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] El barco 200 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] El barco 203 ha dejado de esperar para reponer gasoil...
+[Wed Mar 25 18:56:31 CET 2020] El barco 203 esta reponiendo gasoil...
+[Wed Mar 25 18:56:31 CET 2020] Gasoil a tope en el barco 203
+[Wed Mar 25 18:56:31 CET 2020] El barco petrolero 203 ha terminado de repostar gasoil
+[Wed Mar 25 18:56:31 CET 2020] El barco 202 ha dejado de esperar para reponer gasoil...
+[Wed Mar 25 18:56:31 CET 2020] El barco 202 esta reponiendo gasoil...
+[Wed Mar 25 18:56:31 CET 2020] Gasoil a tope en el barco 202
+[Wed Mar 25 18:56:31 CET 2020] El barco petrolero 202 ha terminado de repostar gasoil
+[Wed Mar 25 18:56:31 CET 2020] Barco con id 202 ha salido de la gasolinera
+[Wed Mar 25 18:56:31 CET 2020] Barcos que todavian quedan en la gasolinera 3
+[Wed Mar 25 18:56:31 CET 2020] El barco 202 esta pidiendo permiso de salida
+[Wed Mar 25 18:56:31 CET 2020] El barco 204 ha dejado de esperar para reponer gasoil...
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 204 esta reponiendo gasoil...
+[Wed Mar 25 18:56:31 CET 2020] El barco 202 se le da permiso de salida
+[Wed Mar 25 18:56:31 CET 2020] Gasoil a tope en el barco 204
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 1 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco petrolero 204 ha terminado de repostar gasoil
+[Wed Mar 25 18:56:31 CET 2020] El barco 202 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] El barco 202 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] El barco 202 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] El barco petrolero 204 ha terminado de repostar
+[Wed Mar 25 18:56:31 CET 2020] El barco petrolero 202 ha terminado de repostar
+[Wed Mar 25 18:56:31 CET 2020] El barco 201 ha dejado de esperar para reponer gasoil...
+[Wed Mar 25 18:56:31 CET 2020] El barco petrolero 203 ha terminado de repostar
+[Wed Mar 25 18:56:31 CET 2020] El barco 201 esta reponiendo gasoil...
+[Wed Mar 25 18:56:31 CET 2020] Gasoil a tope en el barco 201
+[Wed Mar 25 18:56:31 CET 2020] Barco con id 203 ha salido de la gasolinera
+[Wed Mar 25 18:56:31 CET 2020] El barco petrolero 201 ha terminado de repostar gasoil
+[Wed Mar 25 18:56:31 CET 2020] Barcos que todavian quedan en la gasolinera 2
+[Wed Mar 25 18:56:31 CET 2020] El barco 203 esta pidiendo permiso de salida
+[Wed Mar 25 18:56:31 CET 2020] El barco petrolero 201 ha terminado de repostar
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] Barco con id 201 ha salido de la gasolinera
+[Wed Mar 25 18:56:31 CET 2020] El barco 203 se le da permiso de salida
+[Wed Mar 25 18:56:31 CET 2020] Barcos que todavian quedan en la gasolinera 1
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 1 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 201 esta pidiendo permiso de salida
+[Wed Mar 25 18:56:31 CET 2020] El barco 203 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 203 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] El barco 201 se le da permiso de salida
+[Wed Mar 25 18:56:31 CET 2020] El barco 203 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 1 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 201 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] El barco 201 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] El barco 201 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] Barco con id 204 ha salido de la gasolinera
+[Wed Mar 25 18:56:31 CET 2020] Barcos que todavian quedan en la gasolinera 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 204 esta pidiendo permiso de salida
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 0 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] Reponedor haciendo su trabajo...
+[Wed Mar 25 18:56:31 CET 2020] El barco 204 se le da permiso de salida
+[Wed Mar 25 18:56:31 CET 2020] Reponiendo el repostaje 0
+[Wed Mar 25 18:56:31 CET 2020] saliendo: 1 entrando: 0 esperandoSalir: 0
+[Wed Mar 25 18:56:31 CET 2020] Ya puede repostar el barco 0
+[Wed Mar 25 18:56:31 CET 2020] El barco 204 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] barcosGasolinera repostando gasoil:  0
+[Wed Mar 25 18:56:31 CET 2020] El barco 204 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] Reponiendo el repostaje 1
+[Wed Mar 25 18:56:31 CET 2020] El barco 204 esta saliendo
+[Wed Mar 25 18:56:31 CET 2020] Ya puede repostar el barco 1
+[Wed Mar 25 18:56:31 CET 2020] barcosGasolinera repostando gasoil:  0
+[Wed Mar 25 18:56:31 CET 2020] Reponiendo el repostaje 2
+[Wed Mar 25 18:56:31 CET 2020] Ya puede repostar el barco 2
+[Wed Mar 25 18:56:31 CET 2020] barcosGasolinera repostando gasoil:  0
+[Wed Mar 25 18:56:31 CET 2020] Reponiendo el repostaje 3
+[Wed Mar 25 18:56:31 CET 2020] Ya puede repostar el barco 3
+[Wed Mar 25 18:56:31 CET 2020] barcosGasolinera repostando gasoil:  0
+[Wed Mar 25 18:56:31 CET 2020] Reponiendo el repostaje 4
+[Wed Mar 25 18:56:31 CET 2020] Ya puede repostar el barco 4
+[Wed Mar 25 18:56:31 CET 2020] barcosGasolinera repostando gasoil:  0
+[Wed Mar 25 18:56:31 CET 2020] Reponedor ha acabado su jornada...
