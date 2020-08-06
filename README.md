@@ -3,15 +3,25 @@
   - :computer: [Pedro Miguel Carmona Broncano](https://github.com/Pmcb04)
   - :date: Curso 2019/2020
   - :office: [Universidad de Extremadura](https://www.unex.es)
-
+  
+  
+## :computer: PROGRAMAS UTILIZADOS
+- [Eclipse](https://www.eclipse.org/)
+- Uso de la clase [Thread](https://docs.oracle.com/javase/7/docs/api/java/lang/Thread.html)
+- Uso de la clase [Semaphore](https://docs.oracle.com/javase/7/docs/api/java/util/concurrent/Semaphore.html)
+- Uso de monitores con la clase [Lock](https://docs.oracle.com/javase/7/docs/api/java/util/concurrent/locks/Lock.html)
+- Uso de [synchronized](https://docs.oracle.com/javase/tutorial/essential/concurrency/syncmeth.html)
+- Uso de la clase [SynchronousQueue](https://docs.oracle.com/javase/7/docs/api/java/util/concurrent/SynchronousQueue.html)
+- Uso de la clase [CyclicBarrier](https://docs.oracle.com/javase/7/docs/api/java/util/concurrent/CyclicBarrier.html)
+- Uso de la clase [Phaser](https://docs.oracle.com/javase/7/docs/api/java/util/concurrent/Phaser.html)
+  
 
 Supongamos que estamos programando un sistema en el que, de momento, queremos
 controlar las entradas y salidas de barcos de un Puerto. Tenemos dos tipos de barcos: los que
 quieren entrar y los que quieren salir y una puerta de control por la que entran y salen los
 barcos.
 
-// figura 1 paso 1
-
+![Paso 1](https://github.com/Pmcb04/PuertoMaritimo/blob/master/images/paso%201.jpeg)
 
 # :runner: Paso :one:
 
@@ -29,11 +39,13 @@ si los mensajes se entremezclan de forma no deseada.
 A continuación, tienes dos extractos de posibles salidas, en la primera no están colisionando y
 en la segunda sí.
 
-// tabla paso 1
+![Tabla Paso 1](https://github.com/Pmcb04/PuertoMaritimo/blob/master/images/tabla.jpeg)
 
 Un posible diagrama de clases de la solución: 
 
-// diagrama paso 1
+
+![Diagrama Paso 1](https://github.com/Pmcb04/PuertoMaritimo/blob/master/images/diagrama%20paso%201.jpeg)
+
 
 # :runner: Paso :two: 
 
@@ -45,11 +57,11 @@ Ahora pueden pasar por la puerta de control más barcos, siempre y cuando todos 
 mismo sentido. Si quiero entrar y hay otro entrando en el mismo sentido, podré hacerlo. Si no
 está pasando nadie, también podré pasar. Si viene alguien de frente no. Igual para las Salidas.
 
-// figura 4 paso 3
+![Paso 3](https://github.com/Pmcb04/PuertoMaritimo/blob/master/images/paso%203.jpeg)
 
 Puesto que esto se va a ir complicando poco a poco, vamos a optar por crear una nueva clase denominada *TorreDeControl* que es la encargada de gestionar los permisos de entrada y salida por la puerta. Tendrá los siguientes métodos: *permisoEntrada, permisoSalida, finEntrada y finSalida*. Ahora, antes de entrar, se invocará el método *permisoEntrada* de *TorreDeControl*. Cuendo termina de entrar, se invocará el método *finEntrada* para que la torre sepa que ha terminado de entrary haga las acciones oportunas. En la siguiente imagen tenemos el diagrama de clases de la solución. 
 
-// diagrama paso 3
+![Diagrama Paso 3](https://github.com/Pmcb04/PuertoMaritimo/blob/master/images/diagrama%20paso%203.jpeg)
 
 # :runner: Paso :four: 
 Además de lo anterior, ahora tienen preferencia los que quieren salir. Si hay algún barco que quiere entrar, pero hay algún barco está esperando por salir, entonces no puede entrar. Sólo lo hará cuando no haya nadie saliendo ni esperando por salir. 
@@ -60,7 +72,8 @@ De los barcos que entran al puerto, hay uno que es un barco mercante que transpo
 
 Suponemos que inicialmente hay 12 contenedores de azúcar, 20 de sal y 5 de harina. Cuando el barco ha descargado todos sus contenedores, entonces sale del puerto. 
 
-// paso 5
+![Paso 5](https://github.com/Pmcb04/PuertoMaritimo/blob/master/images/paso%205.jpeg)
+
 
 # :runner: Paso :six: semaforos :vertical_traffic_light:
 
@@ -69,6 +82,8 @@ De los barcos que entran al puerto, vamos a tener 5 barcos que son petroleros. S
   - Carga 5.000 litros de agua.
 
 Se supone que la cantidad de agua es infinita, pero no la cantidad de gasóleo en cada contenedor de la zona de carga, que es de 1.000 litros. Cuando se acaba el gasóleo en los 5 contenedores de la zona de carga **(tienen que estar vaciós los 5 contenedores)**, entonces un proceso reponedor llenará los 5 contenedores de gasóleo. La capacidad de los contenedores de cada barco es de 3.000 litros de gasóleo y 5.000 litros de agua. El barco coge ambos fluidos de los contenedores de la zona de carga de 1.000 en 1.000 litros. Cuando los barcos entán llenos, entonces salen del puerto de nuevo (no es necesario que se esperen unos a otros). Cuando un barco está cogiendo agua, ningún otro barco puede coger agua. Sin embargo, los 5 barcos pueden estar llenando sus contenedores de gasóleo al mismo tiempo.
+
+![Paso 6](https://github.com/Pmcb04/PuertoMaritimo/blob/master/images/paso%206.jpeg)
 
 # :runner: Paso :seven:
 Ahora vamos a hacer de forma concurrente el llenado de gasóleo y agua. Para ello crearemos dos threads por cada barco, cada uno haciendo una tarea. Estos threads se crearán dentro del metodo *run()* del barco petrolero. El barco ha de esperar a que terminen los dos nuevos threads. Cuendo los dos threads han teminado su tarea, el barco puede continuar. Hay que lanzar estos threads con *Executor*
